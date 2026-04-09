@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">Sistema de Classificacao</string>
+<string name="todo">TODO</string>
+<string name="avalie_o_jogo_abaixo">Avalie o jogo abaixo:</string>
+<string name="deixe_seu_voto">Deixe seu voto:</string>
+<string name="status">Status: </string>
+<string name="btn_ok">OK</string>
+<string name="nome_do_jogo">Angry Birds</string>
+
+<string name="voto_1">Regular</string>
+<string name="voto_2">Bom</string>
+<string name="voto_3">Ótimo</string>
+<string name="voto_4">Excelente</string>
+<string name="voto_5">Espetacular</string>
+</resources>
